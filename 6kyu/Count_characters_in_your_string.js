@@ -8,9 +8,15 @@ What if the string is empty? Then the result should be empty object literal, {}.
  */
 
 function count (string) {
-    var count = {};
-    string.split('').forEach(function(s) {
-        count[s] ? count[s]++ : count[s] = 1;
-    });
-    return count;
+    let arr = string.split('');
+    var counts = {}, i, value;
+    for (i = 0; i < arr.length; i++) {
+        value = arr[i];
+        if (typeof counts[value] === "undefined") {
+            counts[value] = 1;
+        } else {
+            counts[value]++;
+        }
+    }
+    return counts;
 }
