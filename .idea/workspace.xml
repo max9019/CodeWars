@@ -72,6 +72,7 @@
       <updated>1604001364090</updated>
       <workItem from="1604001365171" duration="1001000" />
       <workItem from="1604002813593" duration="6082000" />
+      <workItem from="1604350920534" duration="304000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;">
       <created>1604004146640</created>
@@ -108,6 +109,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;" />
