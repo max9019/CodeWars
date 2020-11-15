@@ -41,6 +41,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/main" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -76,6 +79,7 @@
       <workItem from="1604002813593" duration="6082000" />
       <workItem from="1604350920534" duration="867000" />
       <workItem from="1604530278421" duration="3708000" />
+      <workItem from="1605122873844" duration="1987000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;">
       <created>1604004146640</created>
@@ -123,9 +127,17 @@
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="441" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1604019302829" />
+    <state x="299" y="55" key="CommitChangelistDialog2" timestamp="1605124197285">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="299" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605124197285" />
     <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1604018979453">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
     <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1604018979453" />
+    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605124439879">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1605124439879" />
   </component>
 </project>
