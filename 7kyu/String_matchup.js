@@ -13,3 +13,9 @@ function solve(a,b){
     }
     return result;
 }
+
+/////
+
+function solve(a,b){
+    return b.map(x => a.filter(n => n === x).length);
+}
