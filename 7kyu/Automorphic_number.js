@@ -15,3 +15,7 @@ function automorphic(n){
     arr2 = arr2.slice(-arr.length, arr2.length);
     return +arr2.join('') === n ? "Automorphic" : "Not!!";
 }
+
+function automorphic(n){
+    return (n * n).toString().endsWith(n.toString()) ? "Automorphic" : "Not!!";
+}
