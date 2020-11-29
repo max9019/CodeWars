@@ -21,10 +21,18 @@ function meeting(s) {
     for (let i = 0; i < lastNames.length; i++) {
         let tempArr = arr.filter(el => el.split(' ')[1] === lastNames[i]);
         tempArr.sort(compareFirst);
-        console.log(tempArr);
         for (let j = 0; j < tempArr.length; j++) {
             result += `(${tempArr[j].split(' ')[1]}, ${tempArr[j].split(' ')[0]})`;
         }
     }
     return result;
+}
+
+function meeting(s){
+    s = s.replace(/:/g, ';').toUpperCase().split(';')
+    let res = [];
+    for (let i = 1; i < s.length; i += 2){
+        res.push(`(${s[i]}, ${s[i-1]})`);
+    }
+    return res.sort().join('');
 }
