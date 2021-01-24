@@ -11,11 +11,6 @@ If the key does not appear in the items, return 0
  */
 
 function getConsectiveItems(items, key){
-    items = items.toString().split('');
-    key = key.toString();
-    let arr = items.map(el => el !== key ? el = '-' : el);
-    arr = arr.join('').split('-');
-    let result = 0;
-    arr.forEach(el => el.length > result ? result = el.length : result);
-    return result;
+    return Math.max(...(items.toString().split('').map(el => el === key.toString() ? el : el = '-')
+        .join('').split('-').map(el => el.length)));
 }
