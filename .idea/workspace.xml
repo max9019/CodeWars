@@ -27,9 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ddbd9c2-7410-4907-879f-08853a9c6fde" name="Default Changelist" comment="T.T.T.19: How many steps are required to turn A into B?">
-      <change afterPath="$PROJECT_DIR$/5kyu/Human_readable_time.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/5kyu/Valid_Parentheses.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7kyu/Fizz_Buzz.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +99,7 @@
       <workItem from="1611110162578" duration="1122000" />
       <workItem from="1611375494564" duration="517000" />
       <workItem from="1611428150439" duration="737000" />
-      <workItem from="1611531066816" duration="790000" />
+      <workItem from="1611531066816" duration="1010000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;">
       <created>1604004146640</created>
