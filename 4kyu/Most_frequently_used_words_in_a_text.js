@@ -15,7 +15,7 @@ array if a text contains no words.
  */
 
 function topThreeWords(text) {
-    text = text.split(' ').map(el => el.toLowerCase()).map(el => el.replace(/[.,\/#!$%\^&\*;:{}=\-_~(),]/g,"")).filter(el => el !== '').filter(el => el !== `'`);;
+    text = text.split(' ').map(el => el.toLowerCase()).map(el => el.replace(/[.,\/#!$%\^&\*;:{}=\-_~(),]/g,"")).filter(el => el !== '').filter(el => el !== `'`);
     let obj = {};
     text.forEach(el => el in obj ? obj[el]++ : obj[el] = 1);
     let arr = Object.entries(obj).sort((a, b) => b[1] - a[1]);
