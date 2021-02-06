@@ -9,7 +9,7 @@ so be sure to take that in to account.
  */
 
 function willFit(present, box){
-    present=present.sort((a,b)=>a-b);
-    box=box.sort((a,b)=>a-b);
+    present = present.sort((a,b) => a-b);
+    box = box.sort((a,b) => a-b);
     return box.every((v,i)=>v>=(present[i]+2));
 }
