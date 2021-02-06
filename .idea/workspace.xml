@@ -26,9 +26,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ddbd9c2-7410-4907-879f-08853a9c6fde" name="Default Changelist" comment="T.T.T.19: How many steps are required to turn A into B?">
-      <change afterPath="$PROJECT_DIR$/misc/Counting_chars_repeating_in_groups.js" afterDir="false" />
-    </list>
+    <list default="true" id="4ddbd9c2-7410-4907-879f-08853a9c6fde" name="Default Changelist" comment="T.T.T.19: How many steps are required to turn A into B?" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -103,7 +101,7 @@
       <workItem from="1611726139328" duration="1538000" />
       <workItem from="1612046556466" duration="841000" />
       <workItem from="1612226157434" duration="586000" />
-      <workItem from="1612312598926" duration="642000" />
+      <workItem from="1612312598926" duration="975000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;">
       <created>1604004146640</created>
