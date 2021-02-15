@@ -27,6 +27,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4ddbd9c2-7410-4907-879f-08853a9c6fde" name="Default Changelist" comment="T.T.T.19: How many steps are required to turn A into B?">
+      <change afterPath="$PROJECT_DIR$/misc/Sliding_windows.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -105,6 +106,7 @@
       <workItem from="1612226157434" duration="586000" />
       <workItem from="1612312598926" duration="975000" />
       <workItem from="1612587738367" duration="612000" />
+      <workItem from="1613254951221" duration="489000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;">
       <created>1604004146640</created>
