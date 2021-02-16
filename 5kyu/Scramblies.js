@@ -20,3 +20,16 @@ function scramble(str1, str2) {
     }
     return true;
 }
+
+function scramble(str1, str2) {
+    str1 = str1.split('').sort();
+    str2 = str2.split('').sort();
+    while (str2.length > 0) {
+        for (let i = 0; i < str1.length; i++) {
+            if (str1[i] === str2[0]) {
+                str2.shift();
+            }
+        }
+    }
+    return str2.length === 0
+}
