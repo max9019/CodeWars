@@ -28,6 +28,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4ddbd9c2-7410-4907-879f-08853a9c6fde" name="Default Changelist" comment="T.T.T.19: How many steps are required to turn A into B?">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leetCode/Add_two_numbers.js" beforeDir="false" afterPath="$PROJECT_DIR$/leetCode/Roman_to_integer.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,6 +108,7 @@
       <workItem from="1612587738367" duration="612000" />
       <workItem from="1613254951221" duration="766000" />
       <workItem from="1613444971205" duration="531000" />
+      <workItem from="1614238536155" duration="484000" />
     </task>
     <task id="LOCAL-00001" summary="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;">
       <created>1604004146640</created>
@@ -148,23 +150,5 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;" />
     <option name="LAST_COMMIT_MESSAGE" value="&quot;T.T.T.19: How many steps are required to turn A into B?&quot;" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="441" y="270" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604019302829">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="441" y="270" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1440.877@0.23.1440.877" timestamp="1604019302829" />
-    <state x="299" y="55" key="CommitChangelistDialog2" timestamp="1605124197285">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="299" y="55" key="CommitChangelistDialog2/0.23.1440.877@0.23.1440.877" timestamp="1605124197285" />
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2" timestamp="1604018979453">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="320" y="201" key="Vcs.Push.Dialog.v2/0.23.1440.877@0.23.1440.877" timestamp="1604018979453" />
-    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1605124439879">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="518" y="382" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.877@0.23.1440.877" timestamp="1605124439879" />
   </component>
 </project>
